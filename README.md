@@ -1,3 +1,7 @@
+# Forked to fit different 13W3 connector style
+https://www.aliexpress.com/item/33048055161.html
+
+
 # 13W3 Video Snake Oil
 
 Do you have an old workstation with a 13W3-style video connector? Are you frustrated with adapters that claim to convert this to a 15-pin analog VGA, but don't seem to work? Then this project is for you.
