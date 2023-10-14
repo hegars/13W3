@@ -1,6 +1,8 @@
 # Forked to fit different 13W3 connector style
 https://www.aliexpress.com/item/33048055161.html
 
+ah damn on second look this connector is not coaxial, damn. 
+
 
 # 13W3 Video Snake Oil
 
